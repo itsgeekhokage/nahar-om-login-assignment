@@ -1,10 +1,12 @@
-import React from 'react'
+
+import Bottom from './components/Bottom'
+
 
 function App() {
 
   return (
     <>
-       <h1>Hello Build this shit</h1>
+       <Bottom/>
     </>
   )
 }
